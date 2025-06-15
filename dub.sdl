@@ -1,0 +1,10 @@
+name "logging"
+description "A minimal D application."
+authors "Oz"
+copyright "Copyright © 2025, Oz"
+license "Apache-2.0"
+
+// Dependencies
+dependency "uim-base" version="~>25.5.10"
+
+sourcePaths "source"
